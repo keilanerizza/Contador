@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="texto1">Contagem:</string>
+    <string name="texto2">ZERAR CONTAGEM</string>
+</resources>
